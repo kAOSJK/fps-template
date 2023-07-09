@@ -10,16 +10,15 @@ It uses the Universal Render Pipeline and the Legacy Input Manager.
 
 ### Build
 
--  Clone the project to the to the Unity Editor project templates location 
-Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
--  Delete the .gitignore in package\ProjectData~ folder
--  Delete the ProjectVersion.txt in package\ProjectData~\ProjectSettings folder
+-  Clone the project to the to the Unity Editor project templates location `Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates`
+-  Delete the .gitignore in folder `package\ProjectData~`
+-  Delete the ProjectVersion.txt in folder `package\ProjectData~\ProjectSettings`
 -  Open 7-Zip as administrator
 -  Navigate to the cloned project
 -  Right click on the package folder
 -  Click on add to archive
--  Name it "com.edgardev.template.fps.tgz"
 -  Select the format tar
+-  Name it `com.edgardev.template.fps.tgz`
 -  Click ok
 -  Move the file to the ProjectTemplate folder (next to the unity's templates)
 -  Delete the entire cloned project (the .tgz is the template)
@@ -28,9 +27,8 @@ Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
 
 #### Installation
 
--  Download the lastest tgz file "com.edgardev.template.fps" in the releases tab
--  Move it to the to the Unity Editor project templates location 
-Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
+-  Download the file `com.edgardev.template.fps.tgz` of the lastest release in the releases tab
+-  Move it to the to the Unity Editor project templates location `Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates`
 
 #### Usage
 
