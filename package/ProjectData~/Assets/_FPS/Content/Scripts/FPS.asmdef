@@ -1,0 +1,19 @@
+{
+    "name": "FPS",
+    "rootNamespace": "FPS",
+    "references": [
+        "Unity.TextMeshPro",
+        "Utility"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

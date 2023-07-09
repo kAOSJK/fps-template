@@ -1,0 +1,7 @@
+using UnityEngine;
+using Utility;
+
+    #ROOTNAMESPACEBEGIN#
+[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "FPS/Event/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : EventWrapper { }
+#ROOTNAMESPACEEND#

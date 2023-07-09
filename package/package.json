@@ -1,0 +1,19 @@
+{
+  "name": "com.edgardev.template.fps",
+  "displayName": "FPS",
+  "version": "1.0.0",
+  "type": "template",
+  "host": "hub",
+  "unity": "2022.3",
+  "description": "This is a base FPS project. It uses Unity's Universal Render Pipeline.",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.probuilder": "5.1.0",
+    "com.unity.render-pipelines.universal": "14.0.8"
+  },
+  "author": {
+    "name": "EdgarDev",
+    "email": "edgarcovarel@yahoo.fr",
+    "url": "https://assetstore.unity.com/publishers/64126"
+  }
+}

@@ -1,0 +1,7 @@
+using UnityEngine;
+using Utility;
+
+    #ROOTNAMESPACEBEGIN#
+[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "FPS/Variable/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : VariableWrapper<string> { }
+#ROOTNAMESPACEEND#
