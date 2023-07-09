@@ -1,14 +1,14 @@
-## About The Project
+### About The Project
 
 This is a Unity template that wants to serve as a base for any FPS project.
 It uses the Universal Render Pipeline and the Legacy Input Manager.
-
-### Build
 
 #### Prerequisites
 
 -  Unity 2022.3.0f1 or higher
 -  7-Zip
+
+### Build
 
 -  Clone the project to the to the Unity Editor project templates location 
 Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
@@ -24,17 +24,15 @@ Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
 -  Move the file to the ProjectTemplate folder (next to the unity's templates)
 -  Delete the entire cloned project (the .tgz is the template)
 
-### Installation
+### Getting Started
+
+#### Installation
 
 -  Download the lastest tgz file "com.edgardev.template.fps" in the releases tab
 -  Move it to the to the Unity Editor project templates location 
 Unity\Hub\Editor\2020.3.x\Editor\Data\Resources\PackageManager\ProjectTemplates
 
-### Usage
-
-#### Prerequisites
-
--  Unity 2022.3.0f1 or higher
+#### Usage
 
 -  Open the Unity Hub (or close and reopen it)
 -  Click new project
